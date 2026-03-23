@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+pytrends
+moviepy
+openai
+tweepy
