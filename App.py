@@ -1,14 +1,3 @@
-streamlit
-pytrends
-moviepy
-requests
-openai
-pandas
-python-dotenv
-tweepy
-pillow 
-
-
 import streamlit as st
 import os, json, requests, time
 from datetime import datetime
