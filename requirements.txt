@@ -1,7 +1,6 @@
-streamlit
-requests
-pandas
-pytrends
-moviepy
-openai
-tweepy
+import streamlit as st
+import requests
+import pandas as pd
+from pytrends.request import TrendReq
+import json
+from datetime import datetime
